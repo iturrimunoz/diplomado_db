@@ -1,6 +1,6 @@
 # Install
 
-- Primer Paso: Crear variables de entotno
+- Primer Paso: Crear variables de entorno
 ```bash
 cp .env.sample .env 
 ```
